@@ -1,0 +1,274 @@
+3.Print the following details name, capital, flag using forEach function
+OUTPUT:
+ Mauritania Nouakchott 🇲🇷
+script.js:64 Aruba Oranjestad 🇦🇼
+script.js:64 Argentina Buenos Aires 🇦🇷
+script.js:64 Sweden Stockholm 🇸🇪
+script.js:64 Maldives Malé 🇲🇻
+script.js:64 Mexico Mexico City 🇲🇽
+script.js:64 New Zealand Wellington 🇳🇿
+script.js:64 Ecuador Quito 🇪🇨
+script.js:64 Wallis and Futuna Mata-Utu 🇼🇫
+script.js:64 Åland Islands Mariehamn 🇦🇽
+script.js:64 Montenegro Podgorica 🇲🇪
+script.js:64 Pakistan Islamabad 🇵🇰
+script.js:64 Pitcairn Islands Adamstown 🇵🇳
+script.js:64 Zambia Lusaka 🇿🇲
+script.js:64 Seychelles Victoria 🇸🇨
+script.js:64 Malaysia Kuala Lumpur 🇲🇾
+script.js:64 Norway Oslo 🇳🇴
+script.js:64 Uzbekistan Tashkent 🇺🇿
+script.js:64 Vanuatu Port Vila 🇻🇺
+script.js:64 French Southern and Antarctic Lands Port-aux-Français 🇹🇫
+script.js:64 Christmas Island Flying Fish Cove 🇨🇽
+script.js:64 Singapore Singapore 🇸🇬
+script.js:64 Suriname Paramaribo 🇸🇷
+script.js:64 Western Sahara El Aaiún 🇪🇭
+script.js:64 Saint Martin Marigot 🇲🇫
+script.js:64 Costa Rica San José 🇨🇷
+script.js:64 Heard Island and McDonald Islands undefined 🇭🇲
+script.js:64 Ireland Dublin 🇮🇪
+script.js:64 Antarctica undefined 🇦🇶
+script.js:64 Australia Canberra 🇦🇺
+script.js:64 Libya Tripoli 🇱🇾
+script.js:64 Qatar Doha 🇶🇦
+script.js:64 Greenland Nuuk 🇬🇱
+script.js:64 Mauritius Port Louis 🇲🇺
+script.js:64 Kazakhstan Nur-Sultan 🇰🇿
+script.js:64 British Indian Ocean Territory Diego Garcia 🇮🇴
+script.js:64 Albania Tirana 🇦🇱
+script.js:64 Bahrain Manama 🇧🇭
+script.js:64 Papua New Guinea Port Moresby 🇵🇬
+script.js:64 Burundi Gitega 🇧🇮
+script.js:64 India New Delhi 🇮🇳
+script.js:64 Uruguay Montevideo 🇺🇾
+script.js:64 Saint Lucia Castries 🇱🇨
+script.js:64 Barbados Bridgetown 🇧🇧
+script.js:64 New Caledonia Nouméa 🇳🇨
+script.js:64 Latvia Riga 🇱🇻
+script.js:64 Estonia Tallinn 🇪🇪
+script.js:64 Niue Alofi 🇳🇺
+script.js:64 Saint Barthélemy Gustavia 🇧🇱
+script.js:64 Puerto Rico San Juan 🇵🇷
+script.js:64 Grenada St. George's 🇬🇩
+script.js:64 Macau undefined 🇲🇴
+script.js:64 Cyprus Nicosia 🇨🇾
+script.js:64 Isle of Man Douglas 🇮🇲
+script.js:64 Greece Athens 🇬🇷
+script.js:64 Syria Damascus 🇸🇾
+script.js:64 Lithuania Vilnius 🇱🇹
+script.js:64 Curaçao Willemstad 🇨🇼
+script.js:64 Dominica Roseau 🇩🇲
+script.js:64 Niger Niamey 🇳🇪
+script.js:64 Kyrgyzstan Bishkek 🇰🇬
+script.js:64 Trinidad and Tobago Port of Spain 🇹🇹
+script.js:64 Togo Lomé 🇹🇬
+script.js:64 Palestine Ramallah,Jerusalem 🇵🇸
+script.js:64 Madagascar Antananarivo 🇲🇬
+script.js:64 Croatia Zagreb 🇭🇷
+script.js:64 Faroe Islands Tórshavn 🇫🇴
+script.js:64 Haiti Port-au-Prince 🇭🇹
+script.js:64 Montserrat Plymouth 🇲🇸
+script.js:64 Cook Islands Avarua 🇨🇰
+script.js:64 Timor-Leste Dili 🇹🇱
+script.js:64 Martinique Fort-de-France 🇲🇶
+script.js:64 Cuba Havana 🇨🇺
+script.js:64 Taiwan Taipei 🇹🇼
+script.js:64 Eswatini Mbabane 🇸🇿
+script.js:64 Ukraine Kyiv 🇺🇦
+script.js:64 Bermuda Hamilton 🇧🇲
+script.js:64 South Korea Seoul 🇰🇷
+script.js:64 Peru Lima 🇵🇪
+script.js:64 Iraq Baghdad 🇮🇶
+script.js:64 Moldova Chișinău 🇲🇩
+script.js:64 San Marino City of San Marino 🇸🇲
+script.js:64 Venezuela Caracas 🇻🇪
+script.js:64 Guyana Georgetown 🇬🇾
+script.js:64 Cayman Islands George Town 🇰🇾
+script.js:64 Cambodia Phnom Penh 🇰🇭
+script.js:64 Cocos (Keeling) Islands West Island 🇨🇨
+script.js:64 Malta Valletta 🇲🇹
+script.js:64 Sri Lanka Sri Jayawardenepura Kotte 🇱🇰
+script.js:64 Israel Jerusalem 🇮🇱
+script.js:64 Sudan Khartoum 🇸🇩
+script.js:64 United States Virgin Islands Charlotte Amalie 🇻🇮
+script.js:64 Eritrea Asmara 🇪🇷
+script.js:64 Mali Bamako 🇲🇱
+script.js:64 Somalia Mogadishu 🇸🇴
+script.js:64 Norfolk Island Kingston 🇳🇫
+script.js:64 Comoros Moroni 🇰🇲
+script.js:64 Nicaragua Managua 🇳🇮
+script.js:64 Russia Moscow 🇷🇺
+script.js:64 Uganda Kampala 🇺🇬
+script.js:64 Nauru Yaren 🇳🇷
+script.js:64 Switzerland Bern 🇨🇭
+script.js:64 Portugal Lisbon 🇵🇹
+script.js:64 Tajikistan Dushanbe 🇹🇯
+script.js:64 South Sudan Juba 🇸🇸
+script.js:64 Bouvet Island undefined 🇧🇻
+script.js:64 Micronesia Palikir 🇫🇲
+script.js:64 American Samoa Pago Pago 🇦🇸
+script.js:64 Czechia Prague 🇨🇿
+script.js:64 Botswana Gaborone 🇧🇼
+script.js:64 Tunisia Tunis 🇹🇳
+script.js:64 Anguilla The Valley 🇦🇮
+script.js:64 Guinea-Bissau Bissau 🇬🇼
+script.js:64 Slovakia Bratislava 🇸🇰
+script.js:64 Marshall Islands Majuro 🇲🇭
+script.js:64 Algeria Algiers 🇩🇿
+script.js:64 Jamaica Kingston 🇯🇲
+script.js:64 Mozambique Maputo 🇲🇿
+script.js:64 Spain Madrid 🇪🇸
+script.js:64 Honduras Tegucigalpa 🇭🇳
+script.js:64 Netherlands Amsterdam 🇳🇱
+script.js:64 South Africa Pretoria,Bloemfontein,Cape Town 🇿🇦
+script.js:64 Azerbaijan Baku 🇦🇿
+script.js:64 North Macedonia Skopje 🇲🇰
+script.js:64 Gambia Banjul 🇬🇲
+script.js:64 Liberia Monrovia 🇱🇷
+script.js:64 Luxembourg Luxembourg 🇱🇺
+script.js:64 Cape Verde Praia 🇨🇻
+script.js:64 Bahamas Nassau 🇧🇸
+script.js:64 Georgia Tbilisi 🇬🇪
+script.js:64 Kiribati South Tarawa 🇰🇮
+script.js:64 Tanzania Dodoma 🇹🇿
+script.js:64 China Beijing 🇨🇳
+script.js:64 Guatemala Guatemala City 🇬🇹
+script.js:64 São Tomé and Príncipe São Tomé 🇸🇹
+script.js:64 Germany Berlin 🇩🇪
+script.js:64 Sierra Leone Freetown 🇸🇱
+script.js:64 Chad N'Djamena 🇹🇩
+script.js:64 United Kingdom London 🇬🇧
+script.js:64 Slovenia Ljubljana 🇸🇮
+script.js:64 Thailand Bangkok 🇹🇭
+script.js:64 Indonesia Jakarta 🇮🇩
+script.js:64 Northern Mariana Islands Saipan 🇲🇵
+script.js:64 Guam Hagåtña 🇬🇺
+script.js:64 Finland Helsinki 🇫🇮
+script.js:64 Mayotte Mamoudzou 🇾🇹
+script.js:64 Gibraltar Gibraltar 🇬🇮
+script.js:64 Turkmenistan Ashgabat 🇹🇲
+script.js:64 Kosovo Pristina 🇽🇰
+script.js:64 Ivory Coast Yamoussoukro 🇨🇮
+script.js:64 Morocco Rabat 🇲🇦
+script.js:64 Dominican Republic Santo Domingo 🇩🇴
+script.js:64 Ghana Accra 🇬🇭
+script.js:64 Vatican City Vatican City 🇻🇦
+script.js:64 Jersey Saint Helier 🇯🇪
+script.js:64 Turkey Ankara 🇹🇷
+script.js:64 Tuvalu Funafuti 🇹🇻
+script.js:64 Iran Tehran 🇮🇷
+script.js:64 Egypt Cairo 🇪🇬
+script.js:64 Denmark Copenhagen 🇩🇰
+script.js:64 Kenya Nairobi 🇰🇪
+script.js:64 Bulgaria Sofia 🇧🇬
+script.js:64 Zimbabwe Harare 🇿🇼
+script.js:64 Angola Luanda 🇦🇴
+script.js:64 Nigeria Abuja 🇳🇬
+script.js:64 Poland Warsaw 🇵🇱
+script.js:64 Senegal Dakar 🇸🇳
+script.js:64 Saint Helena, Ascension and Tristan da Cunha Jamestown 🇸🇭
+script.js:64 Lebanon Beirut 🇱🇧
+script.js:64 Samoa Apia 🇼🇸
+script.js:64 Philippines Manila 🇵🇭
+script.js:64 Guernsey St. Peter Port 🇬🇬
+script.js:64 El Salvador San Salvador 🇸🇻
+script.js:64 Kuwait Kuwait City 🇰🇼
+script.js:64 Tonga Nuku'alofa 🇹🇴
+script.js:64 Oman Muscat 🇴🇲
+script.js:64 Afghanistan Kabul 🇦🇫
+script.js:64 Saint Kitts and Nevis Basseterre 🇰🇳
+script.js:64 Central African Republic Bangui 🇨🇫
+script.js:64 Serbia Belgrade 🇷🇸
+script.js:64 Armenia Yerevan 🇦🇲
+script.js:64 Bangladesh Dhaka 🇧🇩
+script.js:64 Laos Vientiane 🇱🇦
+script.js:64 Chile Santiago 🇨🇱
+script.js:64 French Polynesia Papeetē 🇵🇫
+script.js:64 Panama Panama City 🇵🇦
+script.js:64 United States Washington, D.C. 🇺🇸
+script.js:64 Nepal Kathmandu 🇳🇵
+script.js:64 Myanmar Naypyidaw 🇲🇲
+script.js:64 Falkland Islands Stanley 🇫🇰
+script.js:64 Hungary Budapest 🇭🇺
+script.js:64 Palau Ngerulmud 🇵🇼
+script.js:64 Equatorial Guinea Malabo 🇬🇶
+script.js:64 Guinea Conakry 🇬🇳
+script.js:64 United Arab Emirates Abu Dhabi 🇦🇪
+script.js:64 Turks and Caicos Islands Cockburn Town 🇹🇨
+script.js:64 British Virgin Islands Road Town 🇻🇬
+script.js:64 Liechtenstein Vaduz 🇱🇮
+script.js:64 Bosnia and Herzegovina Sarajevo 🇧🇦
+script.js:64 Malawi Lilongwe 🇲🇼
+script.js:64 Bhutan Thimphu 🇧🇹
+script.js:64 Cameroon Yaoundé 🇨🇲
+script.js:64 Andorra Andorra la Vella 🇦🇩
+script.js:64 Guadeloupe Basse-Terre 🇬🇵
+script.js:64 Republic of the Congo Brazzaville 🇨🇬
+script.js:64 Réunion Saint-Denis 🇷🇪
+script.js:64 Burkina Faso Ouagadougou 🇧🇫
+script.js:64 Jordan Amman 🇯🇴
+script.js:64 DR Congo Kinshasa 🇨🇩
+script.js:64 Tokelau Fakaofo 🇹🇰
+script.js:64 Vietnam Hanoi 🇻🇳
+script.js:64 Sint Maarten Philipsburg 🇸🇽
+script.js:64 Belgium Brussels 🇧🇪
+script.js:64 United States Minor Outlying Islands Washington DC 🇺🇲
+script.js:64 Brazil Brasília 🇧🇷
+script.js:64 Belize Belmopan 🇧🇿
+script.js:64 Antigua and Barbuda Saint John's 🇦🇬
+script.js:64 Paraguay Asunción 🇵🇾
+script.js:64 Benin Porto-Novo 🇧🇯
+script.js:64 Brunei Bandar Seri Begawan 🇧🇳
+script.js:64 Bolivia Sucre 🇧🇴
+script.js:64 Djibouti Djibouti 🇩🇯
+script.js:64 French Guiana Cayenne 🇬🇫
+script.js:64 Canada Ottawa 🇨🇦
+script.js:64 Saint Pierre and Miquelon Saint-Pierre 🇵🇲
+script.js:64 Japan Tokyo 🇯🇵
+script.js:64 Rwanda Kigali 🇷🇼
+script.js:64 Saint Vincent and the Grenadines Kingstown 🇻🇨
+script.js:64 Iceland Reykjavik 🇮🇸
+script.js:64 Belarus Minsk 🇧🇾
+script.js:64 Hong Kong City of Victoria 🇭🇰
+script.js:64 Lesotho Maseru 🇱🇸
+script.js:64 Fiji Suva 🇫🇯
+script.js:64 Austria Vienna 🇦🇹
+script.js:64 Colombia Bogotá 🇨🇴
+script.js:64 Gabon Libreville 🇬🇦
+script.js:64 Saudi Arabia Riyadh 🇸🇦
+script.js:64 South Georgia King Edward Point 🇬🇸
+script.js:64 Ethiopia Addis Ababa 🇪🇹
+script.js:64 Caribbean Netherlands Kralendijk 🇧🇶
+script.js:64 Monaco Monaco 🇲🇨
+script.js:64 North Korea Pyongyang 🇰🇵
+script.js:64 Italy Rome 🇮🇹
+script.js:64 Namibia Windhoek 🇳🇦
+script.js:64 Mongolia Ulan Bator 🇲🇳
+script.js:64 Solomon Islands Honiara 🇸🇧
+script.js:64 Yemen Sana'a 🇾🇪
+script.js:64 Romania Bucharest 🇷🇴
+script.js:64 Svalbard and Jan Mayen Longyearbyen 🇸🇯
+script.js:64 France Paris 🇫🇷
+
+OUTPUT FOR US DOLLAR USING COUNTRIES
+
+
+             merican Samoa
+script.js:95 Bonaire, Sint Eustatius and Saba
+script.js:95 British Indian Ocean Territory
+script.js:95 Virgin Islands (British)
+script.js:95 Virgin Islands (U.S.)
+script.js:95 Cambodia
+script.js:95 Ecuador
+script.js:95 El Salvador
+script.js:95 Guam
+script.js:95 Marshall Islands
+script.js:95 Micronesia (Federated States of)
+script.js:95 Northern Mariana Islands
+script.js:95 Palau
+script.js:95 Panama
+script.js:95 Puerto Rico
+script.js:95 Timor-Leste
+script.js:95 Turks and Caicos Islands
+script.js:95 United States of America
